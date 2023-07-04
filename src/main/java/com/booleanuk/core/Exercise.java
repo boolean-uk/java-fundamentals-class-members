@@ -31,7 +31,7 @@ public class Exercise extends ExerciseBase {
 
 
     // 5. Change the value below so that the tests pass
-    public String firstString = "Ruby is to Python what car is to carpet.";
+    public String firstString = "Java is to Javascript what car is to carpet.";
 
 
 
