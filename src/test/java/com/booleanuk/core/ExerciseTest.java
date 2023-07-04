@@ -50,9 +50,7 @@ class ExerciseTest {
         for (Field f : fields) {
             if (f.getName().equals("isVisible")) {
                 // Check if the isVisible field is public
-                Assertions.assertEquals(0,
-                        f.toGenericString().indexOf("public"),
-                        "Did you change the isVisible attribute to be public?");
+                Assertions.assertEquals(0, f.toGenericString().indexOf("public"), "Did you change the isVisible attribute to be public?");
             }
         }
     }
