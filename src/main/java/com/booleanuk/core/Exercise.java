@@ -13,14 +13,17 @@ public class Exercise extends ExerciseBase {
 
 
     // 1. Create an integer member named age with a value of 32
+    public int age = 32;
 
 
 
     // 2. Create a String member named firstName with a value of "Jane"
+    public String firstName = "Jane";
 
 
 
     // 3. Create a boolean member named isProgrammer with a value of true
+    public boolean isProgrammer = true;
 
 
 
