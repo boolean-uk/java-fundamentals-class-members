@@ -18,7 +18,7 @@ public class Exercise extends ExerciseBase {
 
     // 2. Create a String member named firstName with a value of "Jane"
 
-
+    String firstName = "Jane";
 
     // 3. Create a boolean member named isProgrammer with a value of true
 
@@ -26,7 +26,7 @@ public class Exercise extends ExerciseBase {
 
     // 4. Change the value below so that the tests pass. Check the README.md file for instructions on
     // running and reading tests
-    public int firstNumber = 109;
+    public int firstNumber = 9182;
 
 
 
@@ -36,5 +36,5 @@ public class Exercise extends ExerciseBase {
 
 
     // 6. Change the visibility below so that the tests pass
-    private boolean isVisible = true;
+    public boolean isVisible = true;
 }
