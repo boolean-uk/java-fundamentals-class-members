@@ -36,5 +36,5 @@ public class Exercise extends ExerciseBase {
 
 
     // 6. Change the visibility below so that the tests pass
-    public boolean isVisible = false;
+    public boolean isVisible = true;
 }
