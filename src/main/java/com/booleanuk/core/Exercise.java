@@ -18,7 +18,7 @@ public class Exercise extends ExerciseBase {
 
 
     // 2. Create a String member named firstName with a value of "Jane"
-    public String name = "Jane" ;
+    public String firstName = "Jane" ;
 
 
 
