@@ -1,6 +1,7 @@
 package com.booleanuk.core;
 import com.booleanuk.helpers.ExerciseBase;
 
+// Exercises
 public class Exercise extends ExerciseBase {
     // Below is an example of a class member in Java.
     // Where a class describes a thing, a member describes its attributes.
