@@ -33,6 +33,7 @@ public class Exercise extends ExerciseBase {
 
 
 
+
     // 5. Change the value below so that the tests pass
     public String firstString = "Java is to Javascript what car is to carpet.";
 
@@ -40,4 +41,7 @@ public class Exercise extends ExerciseBase {
 
     // 6. Change the visibility below so that the tests pass
     public boolean isVisible = true;
+    //test
+
+
 }
