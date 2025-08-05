@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Field;
 
-class ExerciseTest {
+public class ExerciseTest {
     Exercise exercise;
     Field[] fields;
 
