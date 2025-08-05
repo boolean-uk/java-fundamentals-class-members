@@ -20,7 +20,7 @@ public class Exercise extends ExerciseBase {
     String firstName = "Jane";
 
 
-    // 3. Create a boolean member named isProgrammer with a value of true
+    // 3. Create a boolean member named isProgrammer with a value of true.
     boolean isProgrammer = true;
 
 
