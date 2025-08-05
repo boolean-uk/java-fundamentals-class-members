@@ -11,7 +11,6 @@ public class Exercise extends ExerciseBase {
     // Its name can be anything as long as that name isn't already in use.
     public int answerToTheUltimateQuestion = 42;
 
-
     // 1. Create an integer member named age with a value of 32
     public int age = 32;
 
